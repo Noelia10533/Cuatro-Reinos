@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4f8ddd18f6edf5419337f09c9235744, type: 3}
+  m_Name: Ballestero_Real
+  m_EditorClassIdentifier: Assembly-CSharp::NewScriptableObjectScript
+  nombre: Ballestero Real
+  tier: 1
+  rol: Tirador
+  rasgo: Saqueador
+  vida: 385
+  ataque: 55
+  armadura: 15
+  resistenciaMagica: 15
+  movimiento: Normal
+  habilidad: 'Disparo certero: 250 % de ataque a su objetivo.'
+  trasElCombate: "Ingreso 1 si est\xE1 en la expedici\xF3n"
