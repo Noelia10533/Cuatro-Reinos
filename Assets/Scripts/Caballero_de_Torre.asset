@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4f8ddd18f6edf5419337f09c9235744, type: 3}
+  m_Name: Caballero_de_Torre
+  m_EditorClassIdentifier: Assembly-CSharp::NewScriptableObjectScript
+  nombre: 'Caballero de Torre '
+  tier: 2
+  rol: Luchador
+  rasgo: Centinela
+  vida: 700
+  ataque: 60
+  armadura: 28
+  resistenciaMagica: 28
+  movimiento: Normal
+  habilidad: "Carga: salta al enemigo m\xE1s lejano y lo aturde 1,5 s."
+  trasElCombate: 
