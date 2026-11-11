@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4f8ddd18f6edf5419337f09c9235744, type: 3}
-  m_Name: Caballero_de_Torre
+  m_Name: Paladin
   m_EditorClassIdentifier: Assembly-CSharp::NewScriptableObjectScript
-  nombre: 'Caballero de Torre '
-  tier: 2
-  rol: Luchador
+  nombre: "Palad\xEDn"
+  tier: 3
+  rol: Tanque
   rasgo: Centinela
-  vida: 700
-  ataque: 60
-  armadura: 28
-  resistenciaMagica: 28
-  movimiento: Normal
-  habilidad: "Carga: salta al enemigo m\xE1s lejano y lo aturde 1,5 s."
-  trasElCombate: 
+  vida: 1150
+  ataque: 50
+  armadura: 46
+  resistenciaMagica: 41
+  movimiento: Lento
+  habilidad: 
+  trasElCombate: Centinela 1

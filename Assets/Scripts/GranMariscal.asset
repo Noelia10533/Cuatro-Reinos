@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4f8ddd18f6edf5419337f09c9235744, type: 3}
-  m_Name: Arquero_de_elite
+  m_Name: GranMariscal
   m_EditorClassIdentifier: Assembly-CSharp::NewScriptableObjectScript
-  nombre: "Arquero de \xC9lite "
-  tier: 2
-  rol: Tirador
-  rasgo: Cosecha
-  vida: 490
-  ataque: 70
-  armadura: 18
-  resistenciaMagica: 18
-  movimiento: Normal
-  habilidad: "Lluvia de flechas: 150 de da\xF1o a todos en 1 casilla del objetivo"
-  trasElCombate: 'Ingreso '
+  nombre: Gran Mariscal
+  tier: 5
+  rol: Tanque
+  rasgo: Centinela
+  vida: 1755
+  ataque: 75
+  armadura: 52
+  resistenciaMagica: 47
+  movimiento: Lento
+  habilidad: 
+  trasElCombate: Instruir y Centinela 2
